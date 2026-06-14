@@ -23,7 +23,7 @@
 
 Подробное описание тест-кейсов доступно в файле:
 
-[admin-test-cases.xlsx](./admin-test-cases.xlsx)
+[admin-test-case.xlsx](https://github.com/darykuropteva/qa-ecommerce-backend/blob/main/test-cases/admin-test-case.xlsx)
 
 ## Покрытие
 
