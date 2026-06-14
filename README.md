@@ -72,7 +72,9 @@ qa-ecommerce-backend/
 ├── bug-reports/                 # Сводная таблица багов / Bug summary
 │   └── README.md
 │
-├──
+├── test-report/                 # Итоговый отчёт / Test report
+│   └── admin-module-report.md
+
 ```
 
 ---
