@@ -67,7 +67,8 @@ qa-ecommerce-backend/
 │   ├── admin-categories.md      # Управление категориями
 │   ├── admin-products.md        # Управление товарами
 │   ├── admin-orders.md          # Управление заказами
-│   └── admin-roles.md           # Роли и доступ
+│   ├── admin-roles.md           # Роли и доступ
+│   └── admin-test-cases.xlsx    # Подробное описание тест-кейсов 
 │
 ├── bug-reports/                 # Сводная таблица багов / Bug summary
 │   └── README.md
